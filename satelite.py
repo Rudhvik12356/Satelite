@@ -61,5 +61,7 @@ def on_mouse_down(pos):
                 nextSatelite = 0
                 lines = []
 
+            nextSatelite+1
+
 createSatelite()
 pgzrun.go()                       
